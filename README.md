@@ -1,5 +1,5 @@
 # ConenctFour
-A intelligent connect four made by Python.
+A Python intelligent connect four.
 
 ### Prerequisities
 
